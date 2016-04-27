@@ -1,2 +1,3 @@
 remote repository edit
 learn Git combined with SourceTree 
+SourceTree那边提示有点慢！
