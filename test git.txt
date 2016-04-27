@@ -1,3 +1,6 @@
-remote repository edit
+﻿remote repository edit
 learn Git combined with SourceTree 
 SourceTree那边提示有点慢！
+客户端(SourceTree)这边用"合并"来更新remote repository 
+客户端编辑就只能在跟目录下的文件中编辑了。
+
